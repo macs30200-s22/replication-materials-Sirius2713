@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/483373544.svg)](https://zenodo.org/badge/latestdoi/483373544)
+
 # Perspectives on Computational Research
 
 The code is written in Python 3.8.8 and all of its dependencies can be installed by running the following in the terminal (with the requirements.txt file included in this repository):
