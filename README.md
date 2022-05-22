@@ -86,3 +86,8 @@ date Var                                   3.422
 ```
 
 Import air freight price indexes are more impacted by Covid-related policies compred to export air freight price indexes. For import data, policies in origin countries (Canada, Mexico, China, Japan), including cancel public events, restrictions on gatherings, stay at home requirements, international travel controls, are significantly negative associated with air freight price indexes. This is not what I originally expected, but I think it's probably because demands for trading between two countries decline with these policies. I'll look into effects among different countries and categories in later analysis.
+
+
+****
+### Cite this repo as
+Wenqian Zhang. “Macs30200-s22/replication-materials-sirius2713: Draft”. Zenodo, May 22, 2022. https://doi.org/10.5281/zenodo.6570841.
