@@ -1,0 +1,12 @@
+Variable,Coef,lower,upper
+date,-0.007,-0.021,0.008
+C1 School closing org,0.075,-0.003,0.154
+C2 Workplace closing org,-0.112,-0.238,0.014
+C3 Cancel public events org,0.156,-0.097,0.409
+C4 Restrictions on gatherings org,0.09,-0.041,0.221
+C5 Close public transport org,-0.367,-0.874,0.14
+C6 Stay at home requirements org ,-0.093,-0.244,0.059
+C7 Restrictions on internal movement org,-0.001,-0.253,0.251
+C8 International travel controls org,-0.187,-0.323,-0.051
+log_case_org,0.043,-0.009,0.095
+log_death_org,0.031,-0.025,0.086
