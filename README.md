@@ -62,4 +62,4 @@ Category-level random effects of international travel controls in Canada:
 
 ****
 ### Cite this repo as
-Wenqian Zhang. “Macs30200-s22/replication-materials-sirius2713: Draft”. Zenodo, May 22, 2022. https://doi.org/10.5281/zenodo.6570841.
+Wenqian Zhang. “Macs30200-s22/replication-materials-sirius2713: final”. Zenodo, May 22, 2022. https://doi.org/10.5281/zenodo.6570841.
