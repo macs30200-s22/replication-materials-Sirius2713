@@ -51,6 +51,15 @@ date Var                                   0.754
 ======================================================================================
 ```
 
+Country-level random effects of international travel controls:
+
+![re_c](/images/re_viz.png)
+
+
+Category-level random effects of international travel controls in Canada:
+
+![re_ca](/images/re_viz_ca.png)
+
 ****
 ### Cite this repo as
 Wenqian Zhang. “Macs30200-s22/replication-materials-sirius2713: Draft”. Zenodo, May 22, 2022. https://doi.org/10.5281/zenodo.6570841.
